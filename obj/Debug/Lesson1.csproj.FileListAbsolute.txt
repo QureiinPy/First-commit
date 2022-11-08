@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Users\user\source\repos\Lesson1\bin\Debug\Lesson1.exe
+C:\Users\user\source\repos\Lesson1\bin\Debug\Lesson1.pdb
+C:\Users\user\source\repos\Lesson1\obj\Debug\Lesson1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lesson1\obj\Debug\Lesson1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lesson1\obj\Debug\Lesson1.exe
+C:\Users\user\source\repos\Lesson1\obj\Debug\Lesson1.pdb
+E:\Visual Studio Programm\Start\Lesson1\bin\Debug\Lesson1.exe.config
+E:\Visual Studio Programm\Start\Lesson1\bin\Debug\Lesson1.exe
+E:\Visual Studio Programm\Start\Lesson1\bin\Debug\Lesson1.pdb
+E:\Visual Studio Programm\Start\Lesson1\obj\Debug\Lesson1.csproj.AssemblyReference.cache
+E:\Visual Studio Programm\Start\Lesson1\obj\Debug\Lesson1.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Programm\Start\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+E:\Visual Studio Programm\Start\Lesson1\obj\Debug\Lesson1.exe
+E:\Visual Studio Programm\Start\Lesson1\obj\Debug\Lesson1.pdb
